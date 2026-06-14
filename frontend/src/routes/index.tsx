@@ -251,14 +251,14 @@ const SERVICES = [
 
 const PROJECTS = [
   {
-    title: "Portfolio Website + AI RAG Chatbot",
-    category: "AI Automation",
+    title: "Portfolio Website",
+    category: "Frontend",
     grad: "from-cyan-400/40 to-indigo-500/30",
-    desc: "Personal portfolio with a built-in AI assistant chatbot powered by RAG — answers visitor questions about services, projects, and handles lead collection 24/7.",
-    long: "Built with React.js, Tailwind CSS, and Framer Motion. The integrated RAG chatbot uses a vector knowledge base to answer questions about services, pricing, and projects — and collects client leads automatically.",
-    tech: ["React.js", "Tailwind CSS", "Framer Motion", "RAG Chatbot"],
-    live: "https://rasheedahmed.me/",
-    source: "https://github.com/irasheedahmed/Rasheed-Ahmed-Portfolio",
+    desc: "Personal portfolio with a built with reactjs, Tailwind CSS, and Framer Motion.",
+    long: "Built with React.js, Tailwind CSS, and Framer Motion. Currently working on integrating a RAG chatbot uses a vector knowledge base to answer questions about services, pricing, and projects — and collects client leads automatically.",
+    tech: ["React.js", "Tailwind CSS", "Framer Motion"],
+    live: "https://rasheedahmeddev.vercel.app/",
+    source: "https://github.com/irasheedahmed/rasheed-ahmed-portfolio",
   },
   {
     title: "AI Voice Call Agent",
