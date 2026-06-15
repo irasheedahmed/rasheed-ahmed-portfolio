@@ -78,6 +78,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "theme-color", content: "#020B18" },
+      {
+        name: "google-site-verification",
+        content: "KEb5UhIkHXD1YYyUdteGo56-r3Wif6GKZwMKY9t3bpA",
+      },
+
       { title: "Rasheed Ahmed — Full Stack & AI Engineer" },
       {
         name: "description",
